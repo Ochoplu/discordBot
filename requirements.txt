@@ -1,4 +1,4 @@
-aiohttp==1.0.5
+aiohttp==3.7.4
 altgraph==0.16.1
 aspy.yaml==1.2.0
 astroid==2.1.0
