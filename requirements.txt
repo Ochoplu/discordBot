@@ -6,7 +6,7 @@ async-timeout==3.0.1
 asyncio==3.4.3
 bottle==0.12.16
 bottle-websocket==0.2.9
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.11.5
 cfgv==1.6.0
 chardet==3.0.4
